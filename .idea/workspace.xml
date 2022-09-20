@@ -32,13 +32,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AverageSalary">
-    <configuration name="AverageSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivycomptech.averagesalary.AverageSalary" />
+  <component name="RunManager" selected="Application.ArrayListProgram">
+    <configuration name="ArrayListProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivycomptech.arraylist.ArrayListProgram" />
       <module name="IVYComptechJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ivycomptech.averagesalary.*" />
+          <option name="PATTERN" value="com.ivycomptech.arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -46,12 +46,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivycomptech.reverse.ReverseNumber" />
+    <configuration name="AverageSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivycomptech.averagesalary.AverageSalary" />
       <module name="IVYComptechJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ivycomptech.reverse.*" />
+          <option name="PATTERN" value="com.ivycomptech.averagesalary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListProgram" />
         <item itemvalue="Application.AverageSalary" />
         <item itemvalue="Application.StringProblem" />
         <item itemvalue="Application.StringChecking" />
         <item itemvalue="Application.StringEquals" />
-        <item itemvalue="Application.ReverseNumber" />
       </list>
     </recent_temporary>
   </component>
