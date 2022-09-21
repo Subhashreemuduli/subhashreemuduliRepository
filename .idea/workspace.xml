@@ -37,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DuckDriver">
+  <component name="RunManager" selected="Application.EuroDriver">
     <configuration name="ArrayListProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ivycomptech.arraylist.ArrayListProgram" />
       <module name="IVYComptechJAVA" />
@@ -51,12 +51,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AverageSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivycomptech.averagesalary.AverageSalary" />
+    <configuration name="DuckDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivycomptech.duck.DuckDriver" />
       <module name="IVYComptechJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ivycomptech.averagesalary.*" />
+          <option name="PATTERN" value="com.ivycomptech.duck.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuckDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivycomptech.duck.DuckDriver" />
+    <configuration name="EuroDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivycomptech.euro.EuroDriver" />
       <module name="IVYComptechJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ivycomptech.duck.*" />
+          <option name="PATTERN" value="com.ivycomptech.euro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EuroDriver" />
         <item itemvalue="Application.DuckDriver" />
         <item itemvalue="Application.HolidayDriver" />
         <item itemvalue="Application.MagicSquareProblem" />
         <item itemvalue="Application.ArrayListProgram" />
-        <item itemvalue="Application.AverageSalary" />
       </list>
     </recent_temporary>
   </component>
