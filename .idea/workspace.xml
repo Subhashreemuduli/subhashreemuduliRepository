@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c5493f10-4ee6-497e-8a83-0c9d67745a6d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IVYComptechJAVA/com/ivycomptech/animal/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IVYComptechJAVA/com/ivycomptech/animal/Animal.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +38,18 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RuntimePolymorphismDriver">
-    <configuration name="DuckDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivycomptech.duck.DuckDriver" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="candles" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CountAndSay">
+    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookPage.Book" />
       <module name="IVYComptechJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ivycomptech.duck.*" />
+          <option name="PATTERN" value="BookPage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EuroDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivycomptech.euro.EuroDriver" />
+    <configuration name="Cake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivycomptech.cake.Cake" />
       <module name="IVYComptechJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ivycomptech.euro.*" />
+          <option name="PATTERN" value="com.ivycomptech.cake.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HolidayDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivycomptech.holiday.HolidayDriver" />
+    <configuration name="CountAndSay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ivycomptech.ountandsay.CountAndSay" />
       <module name="IVYComptechJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ivycomptech.holiday.*" />
+          <option name="PATTERN" value="com.ivycomptech.ountandsay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MagicSquareProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ivycomptech.magicsquare.MagicSquareProblem" />
+    <configuration name="Parentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookPage.Parentheses" />
       <module name="IVYComptechJAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ivycomptech.magicsquare.*" />
+          <option name="PATTERN" value="BookPage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountAndSay" />
+        <item itemvalue="Application.Parentheses" />
+        <item itemvalue="Application.Book" />
+        <item itemvalue="Application.Cake" />
         <item itemvalue="Application.RuntimePolymorphismDriver" />
-        <item itemvalue="Application.EuroDriver" />
-        <item itemvalue="Application.DuckDriver" />
-        <item itemvalue="Application.HolidayDriver" />
-        <item itemvalue="Application.MagicSquareProblem" />
       </list>
     </recent_temporary>
   </component>
